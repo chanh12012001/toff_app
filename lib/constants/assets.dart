@@ -1,0 +1,57 @@
+class IconConstant {
+  static const String appLogoLight = "assets/icons/ic_app_logo_light.png";
+  static const String appLogoDark = "assets/icons/ic_app_logo_dark.png";
+
+  static const String minus = "assets/icons/ic_minus.svg";
+  static const String dashboard = "assets/icons/ic_dashboard.svg";
+  static const String light = "assets/icons/ic_light.svg";
+  static const String dark = "assets/icons/ic_dark.svg";
+  static const String widgets = "assets/icons/ic_widget.svg";
+  static const String pageLayout = "assets/icons/ic_page_layout.svg";
+  static const String project = "assets/icons/ic_project.svg";
+  static const String fileManager = "assets/icons/ic_file_manager.svg";
+  static const String kanbanBoard = "assets/icons/ic_kanban_board.svg";
+  static const String ecommerce = "assets/icons/ic_ecommerce.svg";
+  static const String email = "assets/icons/ic_email.svg";
+  static const String chat = "assets/icons/ic_chat.svg";
+  static const String user = "assets/icons/ic_user.svg";
+  static const String profile = "assets/icons/ic_profile.svg";
+  static const String bookmark = "assets/icons/ic_bookmark.svg";
+  static const String contact = "assets/icons/ic_contact.svg";
+  static const String task = "assets/icons/ic_task.svg";
+  static const String calendar = "assets/icons/ic_calendar.svg";
+  static const String socialApp = "assets/icons/ic_social_app.svg";
+  static const String todo = "assets/icons/ic_todo.svg";
+  static const String searchWeb = "assets/icons/ic_search_web.svg";
+  static const String form = "assets/icons/ic_form.svg";
+  static const String table = "assets/icons/ic_table.svg";
+  static const String uiKit = "assets/icons/ic_ui_kit.svg";
+  static const String bonusUi = "assets/icons/ic_bonus_ui.svg";
+  static const String builder = "assets/icons/ic_builder.svg";
+  static const String animation = "assets/icons/ic_animation.svg";
+  static const String icon = "assets/icons/ic_icon.svg";
+  static const String button = "assets/icons/ic_button.svg";
+  static const String chart = "assets/icons/ic_chart.svg";
+  static const String landingPage = "assets/icons/ic_landing_page.svg";
+  static const String samplePage = "assets/icons/ic_sample_page.svg";
+  static const String internationalization =
+      "assets/icons/ic_internationalization.svg";
+  static const String starterKit = "assets/icons/ic_starter_kit.svg";
+  static const String other = "assets/icons/ic_other.svg";
+  static const String gallery = "assets/icons/ic_gallery.svg";
+  static const String blog = "assets/icons/ic_blog.svg";
+  static const String faq = "assets/icons/ic_faq.svg";
+  static const String jobSearch = "assets/icons/ic_job_search.svg";
+  static const String learning = "assets/icons/ic_learning.svg";
+  static const String map = "assets/icons/ic_map.svg";
+  static const String editor = "assets/icons/ic_editor.svg";
+  static const String knowledgebase = "assets/icons/ic_knowledgebase.svg";
+  static const String supportTicket = "assets/icons/ic_support_ticket.svg";
+  static const String notification = "assets/icons/ic_notification.svg";
+  static const String bag = "assets/icons/ic_bag.svg";
+  static const String zoom = "assets/icons/ic_zoom_full_screen.svg";
+  static const String edit = "assets/icons/ic_edit.svg";
+  static const String delete = "assets/icons/ic_delete.svg";
+  static const String menuSideBar = "assets/icons/ic_menu_sidebar.svg";
+  static const String cart = "assets/icons/ic_cart.svg";
+}
